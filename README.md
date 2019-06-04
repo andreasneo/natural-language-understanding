@@ -3,8 +3,8 @@
 My assignment solutions for [Natural Language Understanding,Generation, and Machine Translation](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11157.htm) course at University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk).
 
 
-# Coursework 1 - Recurrent Neural Networks
-* Implemented an RNN model given the mathematical equations. 
+# Coursework 1 - Recurrent Neural Network Language Model
+* Implemented an RNN language model given the mathematical equations. 
 * Trained and evaluated the model to learn the agreement rules between subject and predicate in a sentence.
 
 # Coursework 2 - Neural Machine Translation
