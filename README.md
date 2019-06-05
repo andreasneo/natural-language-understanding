@@ -1,4 +1,4 @@
-# Natural Language Understanding
+# Natural Language Understanding,Generation, and Machine Translation
 
 My assignment solutions for [Natural Language Understanding,Generation, and Machine Translation](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11157.htm) course at University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk).
 
