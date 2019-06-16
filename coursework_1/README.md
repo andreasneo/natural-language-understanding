@@ -7,7 +7,7 @@ My solution for coursework 1 of [Natural Language Understanding,Generation, and 
 * Trained and evaluated the model to learn the agreement rules between subject and predicate in a sentence.
 
 The RNN model can be found in [code/rnn.py](https://github.com/AndreasNeokleous/natural-language-understanding/blob/master/coursework_1/code/rnn.py).
-The following classes were implemented following the equations in the [spec](https://github.com/AndreasNeokleous/natural-language-understanding/blob/master/coursework_1/spec/NLUplus_coursework1.pdf) and the method details in the base code:
+These functions were implemented following the RNN equations of cross-entory, output layer weights, error propagation, softmax, weight updates:
 * predict -> predict an output sequence for a given input sequence
 * acc_deltas -> accumulate update weights for the RNNs weight matrices, standard Back Propagation
 * acc_deltas_bptt -> accumulate update weights for the RNNs weight matrices, using Back Propagation Through Time
